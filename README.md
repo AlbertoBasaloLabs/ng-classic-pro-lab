@@ -1,6 +1,6 @@
 # Angular Classic AI Lab
 
-[Repository GitHub Alberto Basalo Labs Ng_Classic_AI](https://github.com/AlbertoBasaloLabs/ng-classic-ai) of example for the advanced classic Angular course.
+[Repository GitHub Alberto Basalo Labs Ng_Classic_AI](https://github.com/AlbertoBasaloLabs/ng-classic-ai) example for the advanced classic Angular course (now with AI features)
 
 ## Assets Board
 
