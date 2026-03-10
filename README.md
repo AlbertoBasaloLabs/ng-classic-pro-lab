@@ -1,6 +1,6 @@
-# Angular Classic Pro Lab
+# Angular Classic AI Lab
 
-[Repository GitHub Alberto Basalo Labs Ng_Classic_Pro_Lab](https://github.com/AlbertoBasaloLabs/ng-classic-pro-lab) of example for the advanced classic Angular course.
+[Repository GitHub Alberto Basalo Labs Ng_Classic_AI](https://github.com/AlbertoBasaloLabs/ng-classic-ai) of example for the advanced classic Angular course.
 
 ## Assets Board
 
@@ -11,6 +11,6 @@ Example in internal folder [assets-board](./assets-board) developed with [Angula
 - **Author**: [Alberto Basalo](https://albertobasalo.dev)
 - **Ai Code Academy en Español**: [AI code Academy](https://aicode.academy)
 - **Socials**:
-  - [X](https://x.com/albertobasalo)
+  - [X/Twitter](https://x.com/albertobasalo)
   - [LinkedIn](https://www.linkedin.com/in/albertobasalo/)
   - [GitHub](https://github.com/albertobasalo)
