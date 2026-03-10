@@ -1,6 +1,6 @@
 # Angular Classic Pro Lab
 
-[Repository GitHub Alberto Basalo Labs Ng_Classic_AI](https://github.com/AlbertoBasaloLabs/ng-classic-pro) example for the advanced classic Angular course 
+[Repository GitHub Alberto Basalo Labs Ng_Classic_Pro](https://github.com/AlbertoBasaloLabs/ng-classic-pro) example for the advanced classic Angular course 
 
 ## Assets Board
 
